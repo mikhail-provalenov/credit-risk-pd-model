@@ -18,6 +18,7 @@
 - cb_person_cred_hist_length, person_home_ownership и др.
 
 ## Структура проекта
+'''
 credit-risk-pd-model/
 ├── data/                    # Исходные данные
 │   └── credit_risk_dataset.csv
@@ -26,6 +27,7 @@ credit-risk-pd-model/
 ├── src/                     # Python скрипты
 ├── requirements.txt         # Зависимости
 └── README.md               # Документация
+'''
 ## Используемые технологии
 - Python 3
 - Pandas, NumPy (работа с данными)
